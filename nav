@@ -21,39 +21,51 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">HOME <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#"> <span class="sr-only">(current)</span></a>
       </li>
-      
       
 
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          OUR FOOD
+          FOOD
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Menu</a>
+          <a class="dropdown-item" href="#">Lunch Menu</a>
+          <a class="dropdown-item" href="#">Dinner Menu</a>
           <a class="dropdown-item" href="#">Specials</a>
-          <a class="dropdown-item" href="#">Catering</a>
-          <a class="dropdown-item" href="#">Vegan/Kosher</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Frequently asked questions</a>
+          <a class="dropdown-item" href="#">Catering</a>
         </div>
       </li>
 
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          OUR RESTAURANT
+          ORDER
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Location/Phone number</a>
-          <a class="dropdown-item" href="#">Hours</a>
-          <a class="dropdown-item" href="#">Accessibility</a>
-          <a class="dropdown-item" href="#">Photos</a>
+          <a class="dropdown-item" href="#">Online</a>
+           <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Phone In</a>
+       </div>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          VISIT
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Contact</a>
+          <a class="dropdown-item" href="#">Location</a>
+          <a class="dropdown-item" href="#">Address</a>
+          <a class="dropdown-item" href="#">Reservations</a>
+          <a class="dropdown-item" href="#">Accesibility</a>
+          <a class="dropdown-item" href="#">Plan Your Event</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Frequently asked questions</a>
+          <a class="dropdown-item" href="#">FAQ</a>
         </div>
       </li>
 
@@ -62,12 +74,12 @@
           ABOUT US
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Family/Dog-friendly</a>
           <a class="dropdown-item" href="#">History</a>
-          <a class="dropdown-item" href="#">Nearby attractions</a>
-          <a class="dropdown-item" href="#">News</a>
-          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Pictures</a>
+          <a class="dropdown-item" href="#">Chef Info</a>
           <a class="dropdown-item" href="#">Reviews</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">FAQ</a>
         </div>
       </li>
 
